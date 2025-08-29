@@ -51,3 +51,5 @@ def __init__(self, root):
 if __name__ == "__main__":
     root = tk.Tk()
     app = SplashScreen(root)
+
+
